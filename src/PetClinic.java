@@ -35,7 +35,7 @@ public class PetClinic {
          }}
 
      public void addClient(Client client,PetClinic petClinic) {
-
+         System.out.println("2222");
      }
 
   }
